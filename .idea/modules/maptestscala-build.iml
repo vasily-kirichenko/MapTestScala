@@ -68,7 +68,6 @@
           <root url="jar://$USER_HOME$/.sbt/boot/scala-2.10.4/org.scala-sbt/sbt/0.13.8/relation-0.13.8.jar!/" />
         </CLASSES>
         <JAVADOC />
-        <LIBRARY_FILE />
         <SOURCES>
           <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-sbt/precompiled-2_9_2/srcs/precompiled-2_9_2-0.13.8-sources.jar!/" />
           <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.10.4-sources.jar!/" />
